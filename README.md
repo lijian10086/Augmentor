@@ -340,3 +340,6 @@ Marcus D Bloice, Peter M Roth, Andreas Holzinger, Biomedical image augmentation 
 Click the preview below to view a video demonstration of Augmentor in use:
 
 [![asciicast](https://asciinema.org/a/105368.png)](https://asciinema.org/a/105368?autoplay=1&speed=3)
+
+## 李剑备注
+1、https://blog.csdn.net/timcanby/article/details/79247603 Image augmentation library in Python-Augmentor使用心得
