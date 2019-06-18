@@ -344,3 +344,4 @@ Click the preview below to view a video demonstration of Augmentor in use:
 ## 李剑备注
 1、https://blog.csdn.net/timcanby/article/details/79247603 Image augmentation library in Python-Augmentor使用心得
 2、https://blog.csdn.net/jiuliang1916/article/details/79498885 DataAugment:同时对image和mask进行变换
+3、https://blog.csdn.net/qq_34374211/article/details/83280215 数据增强库Augmentor使用教程
